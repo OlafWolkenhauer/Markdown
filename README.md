@@ -1,6 +1,6 @@
 # Markdown Template, Testfile and Cheat Sheet
 
-I created this file to compare markdown editors and test CSS style files for rendering/previewing it. DevonThink is an app that handles everything that is in this file.
+I created this file to compare markdown editors and test CSS style files for rendering/previewing it. Because it is a testfile, it contains markdown elements that are not rendered by every tool, including GitHub. The purpose is to reveal those elements and compare the look of things in different markdown editors and previewers.
 
 The file also serves me as a tutorial and cheat sheet for markdown. 
 
